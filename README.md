@@ -1,14 +1,15 @@
 # Gaelion 🛡️
 
-Gaelion protects the language model from malicious prompts
+Gaelion protege o modelo de linguagem de prompts maliciosos.
+Paper: <https://pt.overleaf.com/read/hxsdzptznhym#4bc9e7>
 
 ## Sistema de Detecção Preventiva de Prompts Maliciosos
 
 ### Objetivo
 
 - Detectar e bloquear prompts maliciosos antes que cheguem ao modelo de linguagem.
-- Reduzir riscos de jailbreak, vazamento de conteúdo sensível e manipulação intencional.
-- Aumentar a segurança de sistemas de IA usando uma arquitetura híbrida eficiente.
+- Reduzir riscos de jailbreak, de vazamento de conteúdo sensível e de manipulação intencional.
+- Aumentar a segurança dos sistemas de IA por meio de uma arquitetura híbrida eficiente.
 
 ### Contribuições
 
@@ -47,7 +48,7 @@ uv sync
 
 ### 3. Configuração do Token (Hugging Face)
 
-Como o projeto utiliza o Llama Guard (Meta), é necessário autenticação.
+Como o projeto utiliza o Llama Guard (Meta), é necessária autenticação.
 Exporte o seu token como variável de ambiente ou crie um arquivo .env:
 
 ```bash
