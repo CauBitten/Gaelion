@@ -1,7 +1,7 @@
 # Gaelion 🛡️
 
-Gaelion protege o modelo de linguagem de prompts maliciosos.
-Paper: <https://pt.overleaf.com/read/hxsdzptznhym#4bc9e7>
+<p>Gaelion protege o modelo de linguagem de prompts maliciosos.</p>
+<p>Paper: <a href="https://pt.overleaf.com/read/hxsdzptznhym#4bc9e7">Gaelion Paper</a></p>
 
 ## Sistema de Detecção Preventiva de Prompts Maliciosos
 
